@@ -1,3 +1,20 @@
+/*
+SAI RAMA KRISHNA TUMMALA
+
+Title:Priority Queue
+
+Files: main.cpp
+
+Semester: (3013) Spring 2018
+
+Author: Sai Rama Krishna Tummala
+
+Email: sairamktummala@gmail.com
+
+Description: Adding a method called orderedSert which randomly prints some numbers
+             and sorting them in ascending order.
+            
+*/
 #include <iostream>
 #include <ctime>
 
