@@ -38,7 +38,12 @@ int BSTree::count(node *root)
 		return 1 + count(root->left) + count(root->right);
 	}
 }
-//insering an item in the list
+/*insering an item in the list
+
+parameters:node *&root, node *&temp
+
+returns:void
+*/
 void BSTree::insert(node *&root, node *&temp)
 {
 	if (!root)
@@ -57,7 +62,14 @@ void BSTree::insert(node *&root, node *&temp)
 		}
 	}
 }
-//it prints out the tree
+
+/*function:print_node
+          
+parameters: node *n, string label
+
+returns: void
+*/
+	   
 void BSTree::print_node(node *n, string label)
 {
 	if (label != "")
@@ -109,7 +121,14 @@ node *BSTree::minValueNode(node *root)
 
 	return current;
 }
-//it finds and deletes the key from the tree
+/*
+function: delete node
+          it finds and deletes the key from the tree
+	  
+parameters: node *&root, int key  
+
+returns:node
+*/
 node *BSTree::deleteNode(node *&root, int key)
 {
 	if (!root)
@@ -159,7 +178,13 @@ node *BSTree::deleteNode(node *&root, int key)
 
 	return root;
 }
+/*
+function: height
 
+parameters: node*root 
+
+returns:int
+*/
 int BSTree::height(node *root)
 {
 	if (!root)
