@@ -206,7 +206,14 @@ int BSTree::height(node *root)
 	}
 }
 
-/* Print nodes at a given level */
+/* function: printGivenLevel
+             Print nodes at a given level
+	     
+parameters: node *root, int level
+
+returns: void
+	     
+*/
 void BSTree::printGivenLevel(node *root, int level)
 {
 	if (root == NULL)
