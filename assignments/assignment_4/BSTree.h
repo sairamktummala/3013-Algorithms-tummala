@@ -1,3 +1,15 @@
+
+/*
+SAI RAMA KRISHNA TUMMALA
+Title:Fix Delete method
+Files: main.cpp, BSTree.cpp, BSTree.h
+Semester: (3013) Spring 2018
+Author: Sai Rama Krishna Tummala
+Email: sairamktummala@gmail.com
+Description: fixed the delete method and it can handle deleting the 
+             root node when it doesn't have left or right child
+*/
+
 #ifndef BSTREE_H
 #define BSTREE_H
 
