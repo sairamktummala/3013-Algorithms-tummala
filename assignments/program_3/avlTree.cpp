@@ -1,3 +1,6 @@
+//Name: SAI RAMA KRISHNA TUMMALA
+//Date: 1/3/2018
+//Assignment: Program 3
 #include "avlTree.h"
 
 //https://visualgo.net/en/bst
