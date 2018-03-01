@@ -8,16 +8,16 @@ Description: creating the crazy words using adjectives, adverbs, animals, nouns,
 
 Files: - AVLtree.h
 
-         analysis.out
+        -analysis.out
 
-         analyze_trees.cpp
+        -analyze_trees.cpp
          
-         analyze_trees.exe
+        -analyze_trees.exe
          
-         avltree.cpp
+        -avltree.cpp
          
-         bstree.h
+        -bstree.h
          
-         generate_words.cpp
+        -generate_words.cpp
          
-         tenthousandwords.txt
+        -tenthousandwords.txt
