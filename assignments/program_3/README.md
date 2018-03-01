@@ -7,7 +7,15 @@ Assignment: Program 3
 Description: creating the crazy words using adjectives, adverbs, animals, nouns, verbs and comparing them using avl and bst.
 
 Files: - AVLtree.h
-
+         
+        -word_files
+        
+        --nouns.txt
+        --adjectives.txt
+        --verbs.txt
+        --adverbs.txt
+        --animals.txt
+        
         -analysis.out
 
         -analyze_trees.cpp
