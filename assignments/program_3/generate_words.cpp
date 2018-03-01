@@ -1,4 +1,7 @@
-#include <iostream>
+//Name: SAI RAMA KRISHNA TUMMALA
+//Date: 1/3/2018
+//Assignment: Program 3
+//Description: generating the tenthousandwords using adjectives, adverbs, animals, verbs, nouns
 #include <fstream>
 #include <vector>
 #include <map>
