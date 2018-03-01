@@ -1,3 +1,8 @@
+//Name: SAI RAMA KRISHNA TUMMALA
+//Date: 1/3/2018
+//Assignment: Program 3
+//Description: generating the tenthousandwords and comparing them using avl and bst
+
 #include <iostream>
 #include <fstream>
 #include <string>
