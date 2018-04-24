@@ -1,0 +1,15 @@
+Index OF Lebanon,KS is :  55
+Distance : 1.93858e+09 miles | Edges : 4000
+
+Index OF Miami Beach,FL is :  989
+Distance : 2.1567e+09 miles | Edges : 5000
+
+Index OF Lake Dallas,TX is :  985
+Distance : 2.33115e+09 miles | Edges : 6000
+
+Index OF Boston,MA is :  428
+Distance : 2.47528e+09 miles | Edges : 7000
+
+Index OF San Juan,PR is :  95
+Distance : 1.88642e+09 miles | Edges : 3000
+
